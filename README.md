@@ -31,4 +31,4 @@ To install necessary dependencies, run the following command:
 
 ## Demo 
 
-[!demo](img/Budget-Demo.gif)
+![demo](img/Budget-Demo.gif)
